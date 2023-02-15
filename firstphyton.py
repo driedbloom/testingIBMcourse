@@ -1,4 +1,4 @@
-# Display the output
+# Display The Output
 
 print("New Phyton File")
 
